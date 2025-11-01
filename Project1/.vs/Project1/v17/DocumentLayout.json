@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Visual Studio\\test\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|D:\\Visual Studio\\test\\Project1\\Project1\\practice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\practice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|D:\\Visual Studio\\test\\Project1\\Project1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|D:\\Visual Studio\\test\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|D:\\Visual Studio\\test\\Project1\\Project1\\practice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4879738F-3F5B-42CA-B2A1-C41397300F5A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\practice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "practice1.cpp",
               "DocumentMoniker": "D:\\Visual Studio\\test\\Project1\\Project1\\practice1.cpp",
               "RelativeDocumentMoniker": "Project1\\practice1.cpp",
               "ToolTip": "D:\\Visual Studio\\test\\Project1\\Project1\\practice1.cpp",
               "RelativeToolTip": "Project1\\practice1.cpp",
-              "ViewState": "AgIAABUBAAAAAAAAAAAowKoBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAowKsBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-18T09:30:47.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test.cpp",
               "DocumentMoniker": "D:\\Visual Studio\\test\\Project1\\Project1\\test.cpp",
               "RelativeDocumentMoniker": "Project1\\test.cpp",
               "ToolTip": "D:\\Visual Studio\\test\\Project1\\Project1\\test.cpp",
               "RelativeToolTip": "Project1\\test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-18T08:30:06.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileName.cpp",
               "DocumentMoniker": "D:\\Visual Studio\\test\\Project1\\Project1\\FileName.cpp",
               "RelativeDocumentMoniker": "Project1\\FileName.cpp",
@@ -60,7 +60,8 @@
               "RelativeToolTip": "Project1\\FileName.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-15T01:17:04.939Z"
+              "WhenOpened": "2025-10-15T01:17:04.939Z",
+              "EditorCaption": ""
             }
           ]
         }

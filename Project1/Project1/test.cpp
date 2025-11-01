@@ -22,25 +22,18 @@ int divide(int a, int b, int* result)
 }
 */
 #include <stdio.h>
-#define MAXN 10
-
-int Sum(int List[], int N);
-
 int main()
 {
-	int List[MAXN], N, i;
-	scanf_s("%d", &N);
-	for (i = 0; i < N; i++)
-		scanf_s("%d", &List[i]);
-	printf("%d\n", Sum(List, N));
-	return 0;
-}
-
-/* 你的代码将被嵌在这里 */
-int Sum(int List[], int N) {
-	int sum = 0;
-	for (int i = 0; i < N; i++) {
-		sum += List[i];
+	int left = 0;
+	int right = strlen (arr1) - 1;
+	char arr1[] = { 1 1 1 1 1 1};
+	char arr2[] = { * * * * * *};
+	while (left <= right) {
+		arr1[left] = arr2[left];
+		arr2[right] = arr2[right];
+		left++;
+		right--;
 	}
-	return sum;
+	printf("%d", arr1[]);
+	return 0;
 }

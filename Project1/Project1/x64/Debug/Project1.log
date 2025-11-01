@@ -1,3 +1,19 @@
 ﻿D:\Visual Studio\Visual Studio2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   test.cpp
-  Project1.vcxproj -> D:\Visual Studio\test\Project1\x64\Debug\practice.exe
+D:\Visual Studio\test\Project1\Project1\test.cpp(29,20): error C2059: 语法错误:“常数”
+D:\Visual Studio\test\Project1\Project1\test.cpp(29,29): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Visual Studio\test\Project1\Project1\test.cpp(30,29): error C2059: 语法错误:“}”
+D:\Visual Studio\test\Project1\Project1\test.cpp(30,29): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Visual Studio\test\Project1\Project1\test.cpp(31,2): error C2059: 语法错误:“while”
+D:\Visual Studio\test\Project1\Project1\test.cpp(31,24): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Visual Studio\test\Project1\Project1\test.cpp(31,24): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Visual Studio\test\Project1\Project1\test.cpp(37,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Visual Studio\test\Project1\Project1\test.cpp(37,2): error C2365: “printf”: 重定义；以前的定义是“函数”
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(950,37):
+      参见“printf”的声明
+  
+D:\Visual Studio\test\Project1\Project1\test.cpp(37,15): error C2065: “arr1”: 未声明的标识符
+D:\Visual Studio\test\Project1\Project1\test.cpp(37,20): error C7732: “]”前面应该有一个表达式
+D:\Visual Studio\test\Project1\Project1\test.cpp(38,2): error C2059: 语法错误:“return”
+D:\Visual Studio\test\Project1\Project1\test.cpp(39,1): error C2059: 语法错误:“}”
+D:\Visual Studio\test\Project1\Project1\test.cpp(39,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
